@@ -9,6 +9,7 @@ public class Aaaalmali {
             System.out.println("logiut isler");
             System.out.println("Son");
             System.out.println("Cemil");
+            System.out.println("qax");
         }
 
     }

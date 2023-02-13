@@ -12,6 +12,6 @@ public class Balaken {
             }
         }
 
-        System.out.println();
+
     }
 }
