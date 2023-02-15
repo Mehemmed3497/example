@@ -33,6 +33,7 @@ public class Baq {
         else {
             System.out.println("Bu bal yoxdur");
         }
+        System.out.println("Bunu gitHub ucun yaziram");
 
 
     }
